@@ -1,1 +1,1 @@
-# Netflix-dashboard PowerBI
+# Netflix Analytics Dashboard PowerBI
