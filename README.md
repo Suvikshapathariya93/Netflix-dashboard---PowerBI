@@ -7,3 +7,9 @@ This project presents an interactive **Power BI dashboard** analyzing Netflix's 
 
 # 🎯Goal
 The goal of this project is to visualize Netflix's content landscape and uncover patterns in how the platform curates its global library.
+
+# 💡Key Insights from Dashboard
+- **8809** Total Show IDs
+- **750** Countries covered
+- **4527** Directors represented
+- **19** Distinct Ratings
