@@ -1,5 +1,7 @@
 # 📊Netflix Analytics Dashboard - PowerBI
 
+## Dashboard View
+
 <img width="1273" height="718" alt="image" src="https://github.com/user-attachments/assets/a501bda2-23a5-41f7-8f5a-c92f86edb632" />
 
 # 📌Overview
@@ -38,3 +40,13 @@ This POWER BI dashboard provides meaningful insights that can support content te
 **6. Competitive Benchmarking (Portfolio Health)**
 - Understanding the balance between movies vs TV shows helps benchmark Netflix's portfolio against competitors.
 - Reveals gaps in genre, country representation or ratings categories.
+
+---
+✨ **I'm open to feedback and discussions! Reach out with any questions, suggestions, or collaboration ideas.** 
+
+👉 [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/) 
+👉 [Instagram | Suviksha Pathariya](https://www.instagram.com/dataanalyst.play?igsh=eGRnZDQ2cTRta2Vz)
+
+⭐ **Don’t forget to star and follow this repository if you found it useful!** 
+
+💡 **Stay tuned for more features and updates coming soon!** 
